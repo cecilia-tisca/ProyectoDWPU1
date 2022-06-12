@@ -1,0 +1,12 @@
+.navegador{
+    list-style: none;
+    padding: 0%;
+    width: 90%;
+    max-width: 100px;
+    margin: auto;
+}
+
+.navegador li{
+    display: inline-block;
+    text-align: center;
+}
