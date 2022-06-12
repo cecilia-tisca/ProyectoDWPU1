@@ -1,12 +1,23 @@
-.navegador{
-    list-style: none;
-    padding: 0%;
-    width: 90%;
-    max-width: 100px;
-    margin: auto;
+.header{
+    display: flex;
+    margin: 0%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    background-color: bisque;
+
+
 }
 
-.navegador li{
-    display: inline-block;
-    text-align: center;
+nav a{
+    padding: 15px;
+    align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+nav {
+    text-align: center;
+    background-color: white;
+
+}
+
