@@ -21,6 +21,37 @@ nav {
 
 }
 
-.iconos{
+.container a img{
+    margin: 1%;
+}
+
+.foto {
+    position: absolute;
+    float: right;
+    top: 40px;
+    margin-left: 50%;
+}
+
+.container {
+    margin-left: 10%;
+    align-items: center;
+}
+
+.container h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+}
+
+.container p{
+
+}
+
+.container button{
+    background-image: url(./images/fondo-botton.jpg);
+    background-size: cover;
+    height: 55px;
+    width: 160px;
+    font-family:fantasy;
+    font-size: 20px;
 
 }
